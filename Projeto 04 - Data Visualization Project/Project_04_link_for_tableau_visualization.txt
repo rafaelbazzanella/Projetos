@@ -1,0 +1,16 @@
+https://public.tableau.com/profile/rafael4780#!/vizhome/project_04_visual_analytics/Story1?publish=yes
+
+
+
+Context: A company about tourism seeking for insight of how exchange rate cana affect the business and which destinies should have more attetion.
+
+insights:
+
+- Map: USA, Brazil and EUR (especially Italy) are the major tourism routes offered by websites about travelling
+-Usually the second quarter of the year is the one with the biggest average variation of exchange rate. Usually it gets higher.
+-The highest visited countries are France, Spain, USA, China and Italy. We need to cover this places with more plans of travels for visibility of the company
+-People spent way more money in USA than others countries, so we can charge more for this destiny. We still need to pay attetion to France, Spain, Germany, Italy, China and Australia. 
+-We can se that the EUR and USD suffers the highest variations year by year but JPY does not suffer much variation over the years. 
+
+
+
