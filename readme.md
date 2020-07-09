@@ -21,7 +21,7 @@ The objetive of this project was to gather data about tourist destinations and t
 ## [Project 04 - Data Visualization](https://github.com/rafaelbazzanella/Projetos/tree/master/Projeto%2004%20-%20Data%20Visualization%20Project"Data Visualization")
 A company about tourism seeking for insight of how exchange rate can a affect the business and which destinies should have more attetion.
 
-## [Project 05 - Linear Regression](https://github.com/rafaelbazzanella/Projetos/tree/master/Project%2005%20-%20Linear%20Regression"Linear Regression")
+## [Project 05 - Linear Regression](https://github.com/rafaelbazzanella/Projetos/tree/master/Project%2005%20-%20Linear%20Regression"LinearRegression")
 Based on a diamond price dataset found in the kaggle, data processing, analysis and data modeling were performed to predict the sale values ​​of diamonds
 
 ## [Project 06 - Segmentation](https://github.com/rafaelbazzanella/Projetos/tree/master/Projeto%2006%20-%20Segmentation"Segmentation")
