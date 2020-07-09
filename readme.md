@@ -1,7 +1,7 @@
 
 # IronHack Projects  
 
-![Ironhack logo](./ironhack_logo.png "Ironhack logo")
+![ironhack_logo](https://user-images.githubusercontent.com/60548465/87075256-71961c00-c1f6-11ea-90b0-0084ab91b75c.png "Ironhack logo")
 
 
 In this repository you will find the projects done in Ironhack Data Analysis Bootcamp. 
